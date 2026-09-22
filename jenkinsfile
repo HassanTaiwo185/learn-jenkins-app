@@ -103,7 +103,7 @@ pipeline {
             }
 
             environment {
-                CI_ENVIRONMENT_URL = 'https://ubiquitous-blancmange-f9d067.netlify.app/'
+                CI_ENVIRONMENT_URL = 'https://ubiquitous-blancmange-f9d067.netlify.app'
             }
 
             steps {
